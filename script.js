@@ -181,12 +181,12 @@ const needsUpper = confirm ("Do you want your password to contain UPPERCASE lett
     passwordParameters= passwordParameters.concat(upperLetter); 
   }
 
-const needsLower = confirm ("Do you want your password to contain lower letters?");
+const needsLower = confirm ("Do you want your password to contain lowercase letters?");
   if (needsLower) {
     passwordParameters= passwordParameters.concat(lowerLetter)
   }
 
-const needsNum = confirm ("Do you want your password to contain numbers?");
+const needsNum = confirm ("Do you want your password to contain # values (1 2 3 4 5 6 7 8 9 0)?");
   if (needsNum) {
     passwordParameters= passwordParameters.concat(numericValue)
   }
