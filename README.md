@@ -29,4 +29,4 @@ Link to deployed location:
 
 Screenshot of Password Generator:
 
-![screenshot of Password Generator](./Assets/Screenshot%20of%20Password%20Generator.png)
+![screenshot of Password Generator](./Screenshot%20of%20Password%20Generator.png)
