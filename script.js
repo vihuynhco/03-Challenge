@@ -200,7 +200,7 @@ const needsSpecial = confirm ("Do you want your password to contain $pec!al char
 if(!needsLower&&!needsNum&&!needsUpper&&!needsSpecial){
     alert("YOU MUST CHOOSE AT LEAST 1 OPTION!");
 }
-console.log(passwordParameters);
+//console.log(passwordParameters);
 
 
 for (let index = 0; index < isNum; index++)
